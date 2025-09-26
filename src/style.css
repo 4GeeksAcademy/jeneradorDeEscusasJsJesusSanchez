@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(55, 179, 224);
+}
+
+.card{
+
+    
+display: flex;
+justify-content: center;
+align-items: center;
 }
